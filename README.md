@@ -1,7 +1,12 @@
 # Data-Structures-and-Algorithms
 
-This repository contains some examples of following data structures:
+This repository contains implementation of the following:
 
-1.List based collections - Linked lists, Stacks, Queues
-2.
+1. List based data structures - 
+(a) Linked lists 
+(b) Stacks 
+(c) Queues
+
+2. Sorting and searching with list based data structures 
+(a) Binary Search
 
