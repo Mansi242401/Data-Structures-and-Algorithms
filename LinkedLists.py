@@ -1,9 +1,9 @@
 """
-Add three functions to the LinkedList.
-"get_position" returns the element at a certain position.
+The "get_position" returns the element at a certain position.
+The "append" function will add an element at the end of the list
 The "insert" function will add an element to a particular
 spot in the list.
-"delete" will delete the first element with that
+The "delete" will delete the first element with that
 particular value.
 Then, use "Test Run" and "Submit" to run the test cases
 at the bottom."""
